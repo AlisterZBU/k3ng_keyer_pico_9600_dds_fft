@@ -1,5 +1,5 @@
 This a a fork of K3NG's excellent Winkeyer for the Arduino IDE, and runs with an R-Pi Pico.
-I have build many K3NG Winkeyers in the past, using Arduinos, but the small memory capacity
+I have built many K3NG Winkeyers in the past, using Arduinos, but the small memory capacity
 means that many functions cannot be used. The Pico has much more memory and can be programmed via the
 Arduino IDE.
 
